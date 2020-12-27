@@ -1,0 +1,22 @@
+.header {
+  padding-top: 6.70640835%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav {
+  flex-basis: 52.6495726%;
+}
+.nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.nav a {
+  color: #1d1d1d;
+  text-transform: uppercase;
+}
+.nav a:hover {
+  color: #10c9c3;
+}

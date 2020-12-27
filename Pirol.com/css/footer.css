@@ -1,0 +1,33 @@
+.footer {
+  background-color: #141414;
+  color: #ffffff;
+}
+.footer p {
+  color: #bcbcbc;
+}
+.footer a p:hover {
+  color: #ffffff;
+}
+.footer_flex {
+  display: flex;
+}
+.foot_sec1 {
+  max-width: 19.2307692%;
+  margin: 100px 21.025641% 100px 0;
+}
+.foot_sec2 {
+  max-width: 13.0769231%;
+  margin: 100px 12.3931624% 0 0;
+}
+.foot_sec3 {
+  max-width: 4.87179487%;
+  margin: 100px 4.7008547% 0 0;
+}
+.foot_sec4 {
+  max-width: 4.52991453%;
+  margin: 100px 11.5384615% 0 0;
+}
+.foot_sec5 {
+  max-width: 5.81196581%;
+  margin: 100px 0 0 0;
+}

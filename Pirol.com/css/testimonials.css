@@ -1,0 +1,33 @@
+.testimonials {
+  background-color: #10c9c3;
+  padding: 179px 0 60px 0;
+}
+.slider_text {
+  color: #ffffff;
+  max-width: 80%;
+  margin: 0 auto;
+}
+.slider_text h2 {
+  margin-bottom: 35px;
+}
+.slider {
+  text-align: center;
+}
+.pagination {
+  margin-top: 108px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.element_pag {
+  margin: 0 9px 0 0;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  background-color: #b0e8e6;
+}
+.element_pag:hover {
+  transform: scale(1.5, 1.5);
+  border-radius: 5px;
+  background-color: #ffffff;
+}

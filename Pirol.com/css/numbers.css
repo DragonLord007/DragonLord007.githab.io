@@ -1,0 +1,29 @@
+.numbers {
+  background-color: #10c9c3;
+  padding: 101px 0;
+  color: #ffffff;
+}
+.num_flex {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+}
+.number_sec {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.number_sec img {
+  margin-right: 27px;
+}
+.num_text {
+  display: flex;
+  flex-direction: column;
+}
+.num_text .p2 {
+  margin-top: 16px;
+}
+.num {
+  font-size: 18px;
+}

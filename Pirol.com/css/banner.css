@@ -1,0 +1,23 @@
+.banner {
+  background-image: url(../images/header.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 30.1043219%;
+}
+.banner_text p {
+  font-size: 18px;
+  margin-top: 6.76900149%;
+}
+.float {
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+}
+.banner_text {
+  max-width: 40.5128205%;
+  margin-top: 171px;
+}
+.banner_btn {
+  margin: 5.66318927% 24.8717949% 0 0;
+
+}

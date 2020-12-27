@@ -1,0 +1,19 @@
+.about {
+  background-color: #ffffff;
+  padding: 99px 0;
+}
+.about_flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.about_text {
+  text-align: center;
+  max-width: 52.991453%;
+}
+.about_text p {
+  margin-top: 41px;
+}
+.signature {
+  margin-top: 37px;
+}
